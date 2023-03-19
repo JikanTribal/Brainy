@@ -1,8 +1,8 @@
 # Brainy
 
-É uma linguagem de programação esotérica baseada no Brainf#ck/BF(mais uma para a lista das linguagens que não serve para porr4 nenhuma) cujo autor eu desconheço e só obtive informações dela a partir do Chat GPT. 
+É uma linguagem de programação esotérica baseada no Brainf#ck/BF(mais uma para a lista das linguagens que não serve para porr4 nenhuma) cujo autor eu desconheço, só obtive informações dessa linguagem a partir do Chat GPT. 
 
-Neste código eu fiz meu interpretador em Python por pura falta do que fazer, portanto, serviu de aprendizado para criação de linguagens esotéricas. Seu uso é simples, apenas utiliza instruções como Brainfuck, mas com algumas novidades diferente do brainfuck tradicional.
+Neste código eu fiz meu interpretador em Python por pura falta do que fazer, portanto, serviu de aprendizado para criação de linguagens esotéricas. Seu uso é simples, apenas utiliza instruções escritas em símbolos, da mesma forma como o Brainfuck, mas com algumas novidades que aprimora minimamente o brainfuck tradicional.
 
 
 
