@@ -80,4 +80,8 @@ class Interpreter:
                 else:
                    self.stack.pop()
 
+            else:
+                print(f"O símbolo `{self.char}` é desconhecido.")
+                break
+
             self.index += 1
