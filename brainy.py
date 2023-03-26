@@ -7,14 +7,13 @@ class Interpreter:
         self.stack = []
     
     def exec(self, code: str) -> None:
-        self.code = (code)
 
         while self.index < len(self.code):
             self.char = self.code[self.index]
 
             if self.char == "#":
                 while self.index < len(self.code):
-                    self.char = self.code[self.index]
+                    self.char = code[self.index]
                     
                     if ord(self.char) == 10:
                        break
