@@ -9,7 +9,7 @@ class Interpreter:
     def exec(self, code: str) -> None:
 
         while self.index < len(self.code):
-            self.char = self.code[self.index]
+            self.char = code[self.index]
 
             if self.char == "#":
                 while self.index < len(self.code):
